@@ -7,3 +7,4 @@ management:
     enabled: false
 
 foo: bar-will-be-overrided-by-config-server
+foo2: bar-config-server-has-no-this-property
