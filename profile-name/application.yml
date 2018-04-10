@@ -5,3 +5,5 @@ management:
   security:
     # 关掉安全校验，这是为了调用actuator endpoints，正式环境中不要关闭！！！！
     enabled: false
+
+foo: bar-will-be-overrided-by-config-server
