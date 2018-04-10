@@ -1,0 +1,7 @@
+printfcoder:
+  name: shuxian
+  description: i am a config client using profile
+management:
+  security:
+    # 关掉安全校验，这是为了调用actuator endpoints，正式环境中不要关闭！！！！
+    enabled: false
