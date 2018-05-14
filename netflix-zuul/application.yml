@@ -2,7 +2,7 @@ zuul:
   routes:
     user:
       path: /account/**
-      service-id: User_Center_Service
+      service-id: User-Center-Service
       # 是否把前缀忽略掉，先不忽略
       strip-prefix: false
 eureka:
